@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "b6c0f3a8-4d92-4e75-8a1f-0c7e2b9d5a94",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "1a7e9d4c-b38f-4c62-9d05-f4e8a2c6b1a5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "3e9b7d21-6a4c-4f18-b2e5-8c1d0a7f4b61",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Emmett"
+    ]
+  }
+}

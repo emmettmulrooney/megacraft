@@ -1,0 +1,60 @@
+{
+  "format_version": "1.21.40",
+  "megacraft:mega_table": {
+    "sound": "metal"
+  },
+  "megacraft:hull_white": {
+    "sound": "metal"
+  },
+  "megacraft:hull_grey": {
+    "sound": "metal"
+  },
+  "megacraft:hull_black": {
+    "sound": "metal"
+  },
+  "megacraft:hull_red": {
+    "sound": "metal"
+  },
+  "megacraft:hull_orange": {
+    "sound": "metal"
+  },
+  "megacraft:hull_yellow": {
+    "sound": "metal"
+  },
+  "megacraft:hull_blue": {
+    "sound": "metal"
+  },
+  "megacraft:hull_green": {
+    "sound": "metal"
+  },
+  "megacraft:window": {
+    "sound": "glass"
+  },
+  "megacraft:mega_light": {
+    "sound": "glass"
+  },
+  "megacraft:vehicle_core": {
+    "sound": "metal"
+  },
+  "megacraft:wing": {
+    "sound": "metal"
+  },
+  "megacraft:landing_gear": {
+    "sound": "metal"
+  },
+  "megacraft:parachute_pod": {
+    "sound": "cloth"
+  },
+  "megacraft:rocket_engine": {
+    "sound": "metal"
+  },
+  "megacraft:jet_engine": {
+    "sound": "metal"
+  },
+  "megacraft:cockpit": {
+    "sound": "metal"
+  },
+  "megacraft:fuel_tank": {
+    "sound": "metal"
+  }
+}

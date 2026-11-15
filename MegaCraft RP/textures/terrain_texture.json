@@ -1,0 +1,137 @@
+{
+  "resource_pack_name": "MegaCraft",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "megacraft_table_top": {
+      "textures": "textures/blocks/megacraft_table_top"
+    },
+    "megacraft_table_side": {
+      "textures": "textures/blocks/megacraft_table_side"
+    },
+    "megacraft_table_bottom": {
+      "textures": "textures/blocks/megacraft_table_bottom"
+    },
+    "megacraft_hull_white": {
+      "textures": "textures/blocks/megacraft_hull_white"
+    },
+    "megacraft_hull_grey": {
+      "textures": "textures/blocks/megacraft_hull_grey"
+    },
+    "megacraft_hull_black": {
+      "textures": "textures/blocks/megacraft_hull_black"
+    },
+    "megacraft_hull_red": {
+      "textures": "textures/blocks/megacraft_hull_red"
+    },
+    "megacraft_hull_orange": {
+      "textures": "textures/blocks/megacraft_hull_orange"
+    },
+    "megacraft_hull_yellow": {
+      "textures": "textures/blocks/megacraft_hull_yellow"
+    },
+    "megacraft_hull_blue": {
+      "textures": "textures/blocks/megacraft_hull_blue"
+    },
+    "megacraft_hull_green": {
+      "textures": "textures/blocks/megacraft_hull_green"
+    },
+    "megacraft_window": {
+      "textures": "textures/blocks/megacraft_window"
+    },
+    "megacraft_mega_light": {
+      "textures": "textures/blocks/megacraft_mega_light"
+    },
+    "megacraft_core_side": {
+      "textures": "textures/blocks/megacraft_core_side"
+    },
+    "megacraft_core_top": {
+      "textures": "textures/blocks/megacraft_core_top"
+    },
+    "megacraft_rocket_side": {
+      "textures": "textures/blocks/megacraft_rocket_side"
+    },
+    "megacraft_rocket_nozzle": {
+      "textures": "textures/blocks/megacraft_rocket_nozzle"
+    },
+    "megacraft_rocket_side_on": {
+      "textures": "textures/blocks/megacraft_rocket_side_on"
+    },
+    "megacraft_rocket_nozzle_on": {
+      "textures": "textures/blocks/megacraft_rocket_nozzle_on"
+    },
+    "megacraft_rocket_top": {
+      "textures": "textures/blocks/megacraft_rocket_top"
+    },
+    "megacraft_jet_intake": {
+      "textures": "textures/blocks/megacraft_jet_intake"
+    },
+    "megacraft_jet_exhaust": {
+      "textures": "textures/blocks/megacraft_jet_exhaust"
+    },
+    "megacraft_jet_exhaust_on": {
+      "textures": "textures/blocks/megacraft_jet_exhaust_on"
+    },
+    "megacraft_jet_side": {
+      "textures": "textures/blocks/megacraft_jet_side"
+    },
+    "megacraft_wing_top": {
+      "textures": "textures/blocks/megacraft_wing_top"
+    },
+    "megacraft_wing_bottom": {
+      "textures": "textures/blocks/megacraft_wing_bottom"
+    },
+    "megacraft_wing_edge": {
+      "textures": "textures/blocks/megacraft_wing_edge"
+    },
+    "megacraft_cockpit_front": {
+      "textures": "textures/blocks/megacraft_cockpit_front"
+    },
+    "megacraft_cockpit_side": {
+      "textures": "textures/blocks/megacraft_cockpit_side"
+    },
+    "megacraft_cockpit_back": {
+      "textures": "textures/blocks/megacraft_cockpit_back"
+    },
+    "megacraft_cockpit_top": {
+      "textures": "textures/blocks/megacraft_cockpit_top"
+    },
+    "megacraft_cockpit_bottom": {
+      "textures": "textures/blocks/megacraft_cockpit_bottom"
+    },
+    "megacraft_tank_0": {
+      "textures": "textures/blocks/megacraft_tank_0"
+    },
+    "megacraft_tank_1": {
+      "textures": "textures/blocks/megacraft_tank_1"
+    },
+    "megacraft_tank_2": {
+      "textures": "textures/blocks/megacraft_tank_2"
+    },
+    "megacraft_tank_3": {
+      "textures": "textures/blocks/megacraft_tank_3"
+    },
+    "megacraft_tank_4": {
+      "textures": "textures/blocks/megacraft_tank_4"
+    },
+    "megacraft_tank_top": {
+      "textures": "textures/blocks/megacraft_tank_top"
+    },
+    "megacraft_gear_side": {
+      "textures": "textures/blocks/megacraft_gear_side"
+    },
+    "megacraft_gear_top": {
+      "textures": "textures/blocks/megacraft_gear_top"
+    },
+    "megacraft_gear_bottom": {
+      "textures": "textures/blocks/megacraft_gear_bottom"
+    },
+    "megacraft_chute_side": {
+      "textures": "textures/blocks/megacraft_chute_side"
+    },
+    "megacraft_chute_top": {
+      "textures": "textures/blocks/megacraft_chute_top"
+    }
+  }
+}

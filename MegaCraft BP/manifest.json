@@ -1,0 +1,63 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "3e9b7d21-6a4c-4f18-b2e5-8c1d0a7f4b61",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "d5a2c8f0-17e3-4b9a-a64d-2e8f5b3c9d72",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "8f41e6b3-c25d-4a07-9e1b-6d3a7c0f8e83",
+      "entry": "scripts/main.js",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "b6c0f3a8-4d92-4e75-8a1f-0c7e2b9d5a94",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.16.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.3.0"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Emmett"
+    ]
+  }
+}

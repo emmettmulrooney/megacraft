@@ -1,0 +1,139 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:block": {
+    "description": {
+      "identifier": "megacraft:fuel_tank",
+      "menu_category": {
+        "category": "construction"
+      },
+      "states": {
+        "megacraft:used": {
+          "values": {
+            "min": 0,
+            "max": 4
+          }
+        }
+      }
+    },
+    "components": {
+      "minecraft:display_name": "tile.megacraft:fuel_tank.name",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0.8
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 8
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "megacraft_tank_0",
+          "render_method": "opaque"
+        },
+        "up": {
+          "texture": "megacraft_tank_top",
+          "render_method": "opaque"
+        },
+        "down": {
+          "texture": "megacraft_tank_top",
+          "render_method": "opaque"
+        }
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('megacraft:used') == 0",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "megacraft_tank_0",
+              "render_method": "opaque"
+            },
+            "up": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            },
+            "down": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('megacraft:used') == 1",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "megacraft_tank_1",
+              "render_method": "opaque"
+            },
+            "up": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            },
+            "down": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('megacraft:used') == 2",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "megacraft_tank_2",
+              "render_method": "opaque"
+            },
+            "up": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            },
+            "down": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('megacraft:used') == 3",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "megacraft_tank_3",
+              "render_method": "opaque"
+            },
+            "up": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            },
+            "down": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('megacraft:used') == 4",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "megacraft_tank_4",
+              "render_method": "opaque"
+            },
+            "up": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            },
+            "down": {
+              "texture": "megacraft_tank_top",
+              "render_method": "opaque"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

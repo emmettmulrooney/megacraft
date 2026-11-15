@@ -1,0 +1,35 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:block": {
+    "description": {
+      "identifier": "megacraft:mega_table",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:display_name": "tile.megacraft:mega_table.name",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 2.5
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 8
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "megacraft_table_side",
+          "render_method": "opaque"
+        },
+        "up": {
+          "texture": "megacraft_table_top",
+          "render_method": "opaque"
+        },
+        "down": {
+          "texture": "megacraft_table_bottom",
+          "render_method": "opaque"
+        }
+      },
+      "minecraft:map_color": "#5d6b78"
+    }
+  }
+}

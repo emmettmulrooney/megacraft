@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "description": {
+      "identifier": "megacraft:mega_wand",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "item.megacraft:mega_wand"
+      },
+      "minecraft:icon": "megacraft_mega_wand",
+      "minecraft:max_stack_size": 1
+    }
+  }
+}
